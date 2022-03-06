@@ -11,16 +11,12 @@
   "dependencies": {
     "spreadsheet-to-json": "^2.0.0"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/fhrsales/google-spreadsheets-to-json.git"
   },
   "keywords": [
-    "Google",
-    "Sheets",
-    "to",
-    "json",
+    "Googlesheets",
     "JSON"
   ],
   "bugs": {
