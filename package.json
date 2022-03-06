@@ -1,0 +1,22 @@
+{
+  "name": "spreadsheets-to-json",
+  "version": "1.0.0",
+  "description": "Converte uma planilha de Google em um arquivo JSON utilizando a ferramenta google-spreadsheet-to-json",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Google",
+    "Spreadsheet",
+    "google-spreadsheets-to-json",
+    "json"
+  ],
+  "author": "Fabio Sales",
+  "license": "ISC",
+  "dependencies": {
+    "google-spreadsheet-to-json": "^1.0.0",
+    "install": "^0.13.0",
+    "npm": "^8.5.3"
+  }
+}
