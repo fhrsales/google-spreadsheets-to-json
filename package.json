@@ -1,14 +1,30 @@
 {
-  "name": "sheets",
+  "name": "google-sheets-to-json",
   "version": "1.0.0",
-  "description": "",
+  "description": "Cria um arquivo json a partir de uma planilha do Google utilizando a ferramenta Google Sheets to JSON",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Augusto Conconi",
+  "author": "Fabio Sales",
   "license": "ISC",
   "dependencies": {
     "spreadsheet-to-json": "^2.0.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fhrsales/google-spreadsheets-to-json.git"
+  },
+  "keywords": [
+    "Google",
+    "Sheets",
+    "to",
+    "json",
+    "JSON"
+  ],
+  "bugs": {
+    "url": "https://github.com/fhrsales/google-spreadsheets-to-json/issues"
+  },
+  "homepage": "https://github.com/fhrsales/google-spreadsheets-to-json#readme"
 }
